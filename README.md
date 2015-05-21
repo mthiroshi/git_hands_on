@@ -1,3 +1,3 @@
 # git_hands_on
-// test
+// Hiroshi Muto
 //Yudai MORIYA
