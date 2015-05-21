@@ -1,2 +1,2 @@
 # git_hands_on
-//Yudai MORIYA
+//Yudai MORIYA!!
